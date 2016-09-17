@@ -6,8 +6,7 @@ QUnit.module('scapegoat');
 
 QUnit.test('Initializes the ViewModel', function(){
   var vm = new ViewModel();
-  
-  QUnit.equal(vm.attr('value'), 0,
+    QUnit.equal(vm.attr('value'), 0,
     'Default value is 0');
   QUnit.equal(vm.attr('max'), Infinity,
     'Max value is infinity');
