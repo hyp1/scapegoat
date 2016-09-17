@@ -1,0 +1,5 @@
+@page scapegoat
+
+# scapegoat
+
+test
