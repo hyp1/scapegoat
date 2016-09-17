@@ -58,6 +58,7 @@
     "npmAlgorithm": "flat"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "can": "^2.3.16",
     "jquery": "~2.2.1"
   },
