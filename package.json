@@ -60,6 +60,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "can": "^2.3.16",
+    "done-ssr": "^0.13.4",
     "jquery": "~2.2.1"
   },
   "devDependencies": {

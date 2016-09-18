@@ -41,7 +41,7 @@ export const ViewModel = Map.extend({
 });
 
 export default Component.extend({
-  tag: 'scapegoat',
+  tag: 'scapegoat-tag',
   viewModel: ViewModel,
   template
 });
